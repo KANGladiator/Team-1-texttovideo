@@ -13,10 +13,21 @@ This repository contains a simple yet powerful notebook for generating AI-driven
 - **AI-Powered Video Generation**: Input any creative text prompt, and the model generates a video based on your description.
 - **Interactive Gradio Interface**: User-friendly interface for inputting prompts, generating videos, and downloading the output.
 - **Customizable Outputs**: Videos are saved locally for easy access and reuse.
-- **Sample videos**: https://www.youtube.com/playlist?list=PLETCsn_8wYxTCrw-UI5yApAXwlcYFQRCy
+
+---
+## Demo Videos
+
+- **Unlisted Link**: https://www.youtube.com/playlist?list=PLETCsn_8wYxTCrw-UI5yApAXwlcYFQRCy
+
 ---
 
 ## 🛠️ Setup Instructions
+
+### Watch instructions video 
+
+- https://youtu.be/fEmS-DgfMes
+
+## OR
 
 ### 1. Clone the Repository
 ```bash
